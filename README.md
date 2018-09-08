@@ -12,3 +12,6 @@ Then run deploy2tomcat.sh
 ```bash
 $ ./deploy2tomcat.sh
 ```
+
+
+Source code of image can be found at https://github.com/bcanvural/hippo-dockerizer-source
